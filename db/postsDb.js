@@ -15,7 +15,7 @@ const postsDb = {
     id: 1,
     content:
       'Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor accusantium quae doloremque magnam nisi ipsam asperiores rem impedit aliquam. Ratione nisi libero ad provident, vero nihil nesciunt minima rerum dignissimos.',
-    userId: 3,
+    userId: 1,
   },
 };
 
